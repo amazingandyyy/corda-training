@@ -1,4 +1,4 @@
-![Corda](https://miro.medium.com/max/1400/1*NF7Hpeze8C5LVY4-ZQmOfg.png)
+<img align='center' src='https://miro.medium.com/max/1400/1*NF7Hpeze8C5LVY4-ZQmOfg.png' height='30px'/>
 
 # Corda Training
 
