@@ -4,7 +4,7 @@
 
 # Corda Training
 
-Traing material for corda.
+Training material for corda.
 
 ## Resource:
 - [Corda Certification](https://www.corda.net/training-and-certification/)
