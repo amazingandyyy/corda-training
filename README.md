@@ -1,4 +1,6 @@
-<img align='center' src='https://miro.medium.com/max/1400/1*NF7Hpeze8C5LVY4-ZQmOfg.png' height='30px'/>
+<div align="center">
+  <img src='https://miro.medium.com/max/1400/1*NF7Hpeze8C5LVY4-ZQmOfg.png' height='50px'/>
+</div>
 
 # Corda Training
 
